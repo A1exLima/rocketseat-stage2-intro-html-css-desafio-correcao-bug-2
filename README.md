@@ -32,7 +32,7 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 </p>
 <br>
 <p>
-O desafio e deixar o site com a mesmo estilo de antes.
+O desafio e deixar o site com o mesmo estilo de antes.
 </p>
 
 ## 🔖 Layout
